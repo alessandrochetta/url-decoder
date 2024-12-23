@@ -25,11 +25,20 @@ export default function Home() {
       </header>
       <main className={styles.main}>
         <div className={styles['url-container']}>
-          <textarea value={encodedUrl} onChange={decode} placeholder="encoded url">
+          <textarea
+            value={encodedUrl}
+            onChange={decode}
+            placeholder="encoded url"
+            className={styles['textarea']}
+          >
           </textarea>
         </div>
         <div className={styles['url-container']}>
-          <textarea value={decodedUrl} onChange={encode} placeholder="decoded url">
+          <textarea value={decodedUrl}
+            onChange={encode}
+            placeholder="decoded url"
+            className={styles['textarea']}
+          >
           </textarea>
         </div>
       </main>

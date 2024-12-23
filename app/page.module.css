@@ -56,15 +56,15 @@ a.secondary {
 .url-container {
   display: flex;
   justify-content: center;
+}
 
-  textarea {
-    width: 90%;
-    height: 100px;
-    font-size: 16px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-  }
+.textarea {
+  width: 90%;
+  height: 100px;
+  font-size: 16px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
 }
 
 /* Enable hover only on non-touch devices */
