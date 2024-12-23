@@ -1,6 +1,6 @@
 # url decoder
 
-This web app is an alternative to most URL decoders/encoders that contain distracting ads and may collect inputted URLs, potentially violating privacy. Clone this app and run it locally, or visit the published version.
+This web app is an alternative to most URL decoders/encoders that contain distracting ads and may collect inputted URLs, potentially violating privacy. Clone this app and run it locally, or visit the published version [here](https://alessandrochetta.github.io/url-decoder/).
 
 ## Start the app locally
 
